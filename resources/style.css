@@ -3,12 +3,17 @@ html {
     color: white;
     font-family: Verdana, sans-serif;
     margin: auto;
+    text-align: center;
 }
 
 video {
     display: block;
 }
 
+img {
+    display: block;
+}
+
 a {
-    color: white;
+    color: aquamarine;
 }
