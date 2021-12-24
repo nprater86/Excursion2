@@ -1,0 +1,14 @@
+html {
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+    margin: auto;
+}
+
+video {
+    display: block;
+}
+
+a {
+    color: white;
+}
